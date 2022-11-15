@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning MERN Stack at Masai School
-- 💬 Ask me about Javascript ,React JS And DSA
+- 💬 Ask me about Javascript, React JS And DSA
 - 📫 How to reach me: https://www.linkedin.com/in/vivek-jawale-30828a200/
