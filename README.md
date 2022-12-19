@@ -8,7 +8,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jK398TiBbgaBiaDkIKm71EMsmH515w4v/view?usp=share_link)
 
-🔭 I’m currently working on Orbitz.com Clone<br>👯 I’m looking to collaborate on MERN projects<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about JavaScript, React JS, DSA <br>
 
 
 ## 🌐 Socials:
