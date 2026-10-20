@@ -53,7 +53,7 @@ I'm a software engineer with **3+ years** of experience building **algorithmic t
 ### 📊 GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VivekJawale&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=050505&title_color=FFD60A&icon_color=FFD60A&text_color=D4D4D8" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VivekJawale&show_icons=true&hide=commits&hide_border=true&bg_color=050505&title_color=FFD60A&icon_color=FFD60A&text_color=D4D4D8" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekJawale&layout=compact&hide_border=true&bg_color=050505&title_color=FFD60A&text_color=D4D4D8" alt="Top languages" />
 </div>
 
